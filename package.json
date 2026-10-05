@@ -2,7 +2,7 @@
   "name": "clutcher-io-online",
   "version": "1.0.0",
   "private": true,
-  "description": "wss://clutcher-io-online.onrender.com",
+  "description": "wss://clutcher-io-multiplayer-1.onrender.com",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
